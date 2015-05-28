@@ -3,11 +3,10 @@
 Plugin Name: Delete Custom Fields
 Description: Ever have one erroneously entered custom field name confuse all of your users and you just can't figure out how to get rid of it? Delete Custom Fields will let you delete every instance of a custom field from your site. 
 Version: 1.0.0
-License: GPL version 2 or any later version
-Author: ChelseaStats
-Author URI: http://thechels.uk
-Copyright 2015  ChelseaStats
-
+Plugin URI: http://thecellarroom.uk
+Author: TheCellarRoom
+Author URI: http://thecellarroom.uk
+Copyright (c) 2015 TheCellarRoom
 */
 
 class Delete_Custom_Fields {
